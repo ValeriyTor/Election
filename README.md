@@ -1,5 +1,4 @@
 # Election
-Election voting
 Opportunities for implementation are used only taking into account the topics studied.
 
 Electronic voting system
